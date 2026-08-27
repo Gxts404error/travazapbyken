@@ -38,7 +38,7 @@ e contas para os quais possua autorização.
 
 ## 👨‍💻 Autor
 
-Kenndryl
+Gxts
 
 GitHub:
 https://github.com/Gxts404error
