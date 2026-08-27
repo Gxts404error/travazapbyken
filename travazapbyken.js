@@ -2780,3 +2780,30 @@ respirar. Eu não consigo respirar.
 FIM
 
 `).then(e => console.log(`Código finalizado, ${e} mensagens enviadas`)).catch(console.error);
+
+/*
+╔══════════════════════════════════════════════════════════════╗
+║                    ⚠️  SECURITY NOTICE  ⚠️                  ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  [ ACCESS LEVEL: AUTHORIZED USE ONLY ]                       ║
+║                                                              ║
+║  Este código foi desenvolvido para fins EDUCACIONAIS.        ║
+║                                                              ║
+║  ▸ Use SOMENTE em contas, sistemas e ambientes autorizados.  ║
+║  ▸ Não utilize para spam, assédio ou abuso.                  ║
+║  ▸ Não utilize para envio massivo de mensagens.              ║
+║  ▸ Respeite as regras e os termos da plataforma utilizada.   ║
+║                                                              ║
+║  [ ETHICAL USE // RESPONSIBLE RESEARCH ]                     ║
+║                                                              ║
+║  O conhecimento é uma ferramenta.                            ║
+║  Use-o para aprender, testar e construir não para causar     ║
+║  danos.                                                      ║
+║                                                              ║
+║  Author: Gxts                                                ║
+║  GitHub: github.com/Gxts404error                             ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+*/
+
