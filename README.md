@@ -1,6 +1,6 @@
 # TravazapByKen
 
-Projeto desenvolvido por mim, Kenndryl, como parte dos meus estudos
+Projeto desenvolvido por mim, Gxts, como parte dos meus estudos
 em JavaScript, automação Web e Cybersecurity.
 
 ## 🎯 Objetivo
